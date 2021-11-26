@@ -1,0 +1,6 @@
+[19/11/2021 13:09:55] ['127.0.0.1',19876] [TCP]:  helloiam DeArmas
+[19/11/2021 13:09:55] ['127.0.0.1',19876] [TCP]:  OK
+[19/11/2021 13:10:26] ['127.0.0.1',19876] [TCP]:  para entonces vivia en Bruselas, donde se inscribio en la Academia de Bellas Artes
+[19/11/2021 13:11:54] ['127.0.0.1',57115] [UDP]:  helloiam Nadie
+[19/11/2021 13:11:55] ['127.0.0.1',57115] [UDP]:  Usuario Invalido
+[19/11/2021 13:11:55] ['127.0.0.1',57115] [UDP]:  No es posible enviar mensajes
